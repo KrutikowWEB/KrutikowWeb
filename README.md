@@ -15,7 +15,6 @@ Completed courses in website development.
 
 #### I work with graphic editors in the context of layout:
 - _Photoshop_
-- _Zeplin_
 - _Figma_
 
 I also study UX and UI design.
