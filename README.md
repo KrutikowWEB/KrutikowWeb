@@ -9,7 +9,7 @@ Completed courses in website development.
 - __HTML__
 - __CSS__
 - __js__ a bit
-- __Sass/Scss/Less__ preprocessors
+- __Sass/Less__ preprocessors
 - __Gulp__ task scheduler
 - __GIT__ version control system, and much more
 
